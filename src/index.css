@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #05050a;
+  overflow-x: hidden;
+}
+
+.glass {
+  background: rgba(10, 12, 24, 0.74);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+}
+
+.glass-hover:hover {
+  border-color: rgba(0, 240, 255, 0.45);
+  box-shadow: 0 0 25px rgba(0, 240, 255, 0.14);
+  transform: translateY(-2px);
+}
