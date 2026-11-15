@@ -1,6 +1,6 @@
 # Mudit Bhatt: portfolio
 
-3D portfolio built with React, React Three Fiber and Tailwind CSS. Drive the rover with WASD, click a monolith to open a project.
+Portfolio built with React and Vite. Plain CSS, light and dark themes.
 
 Live: https://muditvhatt468.github.io
 
